@@ -19,14 +19,14 @@ def equalTo(x, y):
         return False
 
 
-def greaterOREqualTo(x, y):
+def greaterThanOrEqualTo(x, y):
     if x >= y:
         return True
     else:
         return False
 
 
-def lessOrEqualTo(x, y):
+def lessThanOrEqualTo(x, y):
     if x <= y:
         return True
     else:
