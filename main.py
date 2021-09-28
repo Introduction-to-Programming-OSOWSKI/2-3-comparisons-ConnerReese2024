@@ -19,7 +19,7 @@ def equalTo(x, y):
         return False
 
 
-def greaterThanOrEqualTo(x, y):
+def greaterOrEqual(x, y):
     if x >= y:
         return True
     else:
