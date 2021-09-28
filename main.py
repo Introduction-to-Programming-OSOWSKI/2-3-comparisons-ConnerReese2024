@@ -26,7 +26,7 @@ def greaterThanOrEqualTo(x, y):
         return False
 
 
-def lessThanOrEqualTo(x, y):
+def lessOrEqual(x, y):
     if x <= y:
         return True
     else:
